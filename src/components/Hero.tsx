@@ -36,7 +36,7 @@ const Hero = () => {
           transition={{ duration: 0.8, delay: 0.1, ease: [0.25, 0.46, 0.45, 0.94] }}
           className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-display font-bold tracking-tight max-w-5xl mx-auto leading-[1.1]"
         >
-          I design and build high-performance frontend interfaces for{' '}
+          We design and build high-performance frontend interfaces for{' '}
           <span className="text-gradient">modern tools.</span>
         </motion.h1>
 
